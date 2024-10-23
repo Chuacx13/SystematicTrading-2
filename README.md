@@ -1,4 +1,4 @@
-# Systematic Trading 2: Combining Bollinger Bands, RSI, and ATR
+# Systematic Trading 2: Combining Bollinger Bands, RSI, EMA, and ATR
 
 This strategy integrates four technical indicators—Bollinger Bands, Relative Strength Index (RSI), Exponential Moving Average (EMA) and Average True Range (ATR) —to generate buy and sell signals. These indicators help identify potential trend reversals, momentum shifts, and market volatility, providing a well-rounded approach to decision-making in trading. The aim of this project is to achieve a Sharpe Ratio above 1 for trading AAPL stock while backtesting on insample results. Subsequently, it hopes to gain similar results in an out-of-sample result.
 
